@@ -1,7 +1,6 @@
 from openpyxl import *
 from collections import OrderedDict
 import openpyxl
-import sys
 
 
 def createColumnHeaders(headers_list, wb_name, ws_name, rowNumber=1,
