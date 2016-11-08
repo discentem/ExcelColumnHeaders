@@ -7,5 +7,6 @@ setup(name='ExcelColumnHeaders',
       author='Brandon Kurtz',
       author_email='kurtz.brandon@gmail.com',
       license='MIT',
+      install_requires="openpyxl",
       packages=['ExcelColumnHeaders'],
       zip_safe=False)
